@@ -1,14 +1,17 @@
 [
   {
-    "id": 1,
-    "title": "Post 1"
+    "userId":1,
+    "name":"Anu",
+    "details":"ABC"
   },
   {
-    "id": 2,
-    "title": "Post 2"
+    "userId":2,
+    "name":"Amar",
+    "details":"MNO"
   },
   {
-    "id": 3,
-    "title": "Post 3"
+    "userId":3,
+    "name":"Indira",
+    "details":"XYZ"
   }
 ]
